@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Ivar!
-#### A passionate developer from Sweden
-![A passionate developer from Sweden](https://raw.githubusercontent.com/ivarjt/ivarjt/main/banner_size_3.jpg)
+![backend programming](https://raw.githubusercontent.com/ivarjt/ivarjt/main/banner_size_3.jpg)
+
+# Ivar Thor
 
 Hello, I'm Ivar from Sweden, passionate about backend programming. Transforming ideas into functional code is my specialty.
 
-Skills: PYTHON / FLASK / DJANGO / C / HTML / CSS / JS / PHP
+## Skills and Experience
+PYTHON / FLASK / DJANGO / C / HTML / CSS / JS / PHP
 
 - 🔭 I’m currently working on [a flask based chat application](https://github.com/ivarjt/flask-webchat)
 
