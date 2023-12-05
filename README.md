@@ -2,7 +2,7 @@
 
 # Ivar Thor
 
-Hello, I'm Ivar from Sweden, passionate about backend programming. Transforming ideas into functional code is my specialty.
+Hello, I'm Ivar from Sweden, passionate about backend programming. Transforming ideas into functional code is my specialty. Checkout my website at [itdata.se](https://itdata.se)
 
 ## Skills and Experience
 PYTHON / FLASK / DJANGO / C / HTML / CSS / JS / PHP
