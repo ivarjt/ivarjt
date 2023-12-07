@@ -1,4 +1,4 @@
-![backend programming](https://raw.githubusercontent.com/ivarjt/ivarjt/main/banner_size_3.jpg)
+![backend programming](https://raw.githubusercontent.com/ivarjt/ivarjt/main/banner_size_3.png)
 
 # Ivar Thor
 
